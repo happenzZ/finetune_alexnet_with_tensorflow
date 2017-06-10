@@ -1,0 +1,6 @@
+*.npy
+**/*.pyc
+.idea/
+.idea/workspace.xml
+tmp/
+.ipynb_checkpoints/
